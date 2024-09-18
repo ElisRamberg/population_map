@@ -12,7 +12,7 @@ import os
 # Set the page configuration
 st.set_page_config(layout="wide")
 
-st.title("Interactive World Population Map")
+st.title("Interactive World Population Map (1km Detail Level)")
 
 # Load the population raster data
 raster_file = 'gpw_v4_population_count_rev11_2020_2pt5_min.tif'  # Update this with the correct file path
